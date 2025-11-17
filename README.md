@@ -29,7 +29,13 @@ Arivu-Kalaam is a website development project that welcomes contributions from a
 
 ## Contributing
 
-We welcome contributions from everyone! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to:
+We welcome contributions from everyone! 
+
+### Quick Start
+New to the project? Check out our [QUICKSTART.md](QUICKSTART.md) guide to get up and running in 5 minutes!
+
+### Detailed Guide
+Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to:
 - Set up your development environment
 - Make changes to the code
 - Submit pull requests
